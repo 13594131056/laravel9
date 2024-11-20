@@ -1,4 +1,3 @@
 <?php
 
-echo "this is test2";
-// phpinfo();
+echo "this is index2.php";

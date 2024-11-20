@@ -17,6 +17,9 @@ yarn-error.log
 /.idea
 /.vscode
 
+# log
+storage
+
 # Compiled source #
 ###################
 *.com
